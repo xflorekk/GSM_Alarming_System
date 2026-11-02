@@ -13,8 +13,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Alarm_Logic.vi" Type="VI" URL="../Alarm_Logic.vi"/>
+		<Item Name="Create_Alarm_Message.vi" Type="VI" URL="../Create_Alarm_Message.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Measurement_Data.ctl" Type="VI" URL="../Measurement_Data.ctl"/>
+		<Item Name="Serial_Comunication.vi" Type="VI" URL="../Serial_Comunication.vi"/>
+		<Item Name="Serial_Init.vi" Type="VI" URL="../Serial_Init.vi"/>
 		<Item Name="Simulation.vi" Type="VI" URL="../Simulation.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
